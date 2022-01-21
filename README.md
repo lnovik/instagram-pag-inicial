@@ -1,5 +1,5 @@
 ## Página inicial do Instagram
-<p align="center">Olá 😄, neste projeto que desenvolvi visando minhas melhores práticas de HTML e CSS, criei o layot da página inicial do Instagram</p>
+<p align="center">Olá 😄, neste projeto que desenvolvi visando minhas melhores práticas de HTML e CSS3, criei o layot da página inicial do Instagram</p>
 
   <h4 align="center"> 
 	🚧  React Select 🚀 Concluído...  🚧
@@ -15,4 +15,4 @@ As seguintes ferramentas foram usadas na construção do projeto:
 
 - [Visual Studio Code](https://visualstudio.microsoft.com/pt-br/downloads/)
 - [HTML]
-- [CSS]
+- [CSS3
