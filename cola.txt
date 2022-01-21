@@ -40,3 +40,8 @@ body{
 .profile-photo img{
     height: 50rem;
 }
+
+.profile-photo img{
+    height: 15rem;
+    border-radius: 50%;
+}
