@@ -9,7 +9,7 @@
 <img src="https://user-images.githubusercontent.com/57770493/150475501-70852e11-c3a5-49b9-a788-1b53c78e8ab8.png" />
 </div
   
-### 🛠 Tecnologias
+### 🛠 Tecnologias 
 
 As seguintes ferramentas foram usadas na construção do projeto:
 
