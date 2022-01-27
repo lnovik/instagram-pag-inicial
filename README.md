@@ -5,15 +5,15 @@
 	🚧  React Select 🚀 Concluído...  🚧
 </h4>
 
-
+<h2 align="center">
+  <a href="https://lnovik.github.io/instagram-pag-inicial/">Acesse o site aqui</a>
+</h2>
 
 <div align="center">
 <img src="https://user-images.githubusercontent.com/57770493/150475501-70852e11-c3a5-49b9-a788-1b53c78e8ab8.png" />
 </div
 
-<h2 align="center">
-  <a href="https://lnovik.github.io/instagram-pag-inicial/">Acesse o site aqui</a>
-</h2>
+
 	
   
 ### 🛠 Tecnologias 
